@@ -1,0 +1,13 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/Devfolio",
+        "prod_uri": "mysql://root:@localhost/Devfolio",
+        "linkedin_url": "https://www.linkedin.com/in/payalnarwal/",
+        "github_url": "https://github.com/PayalNarwal",
+        "youtube_url": "https://www.youtube.com/@payalnarwal",
+        "user":"payal.narwal2003@gmail.com",
+        "password":"begu nfti fjhq iysh"
+
+    }
+}
